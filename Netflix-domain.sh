@@ -1,3 +1,4 @@
+myspeedmeter.net.prod.hosts.ooklaserver.net
 amazonaws.com
 aws.amazon.com
 awsstatic.com
@@ -31,7 +32,8 @@ youtu.be
 ytimg.com
 aiv-cdn.net
 amazonaws.co.uk
-amazonaws.com
+apscdn.com
+azonaws.com
 amazonvideo.com
 llnwd.net
 primevideo.com
@@ -41,3 +43,6 @@ scdn.co
 spoti.fi
 spotify.com
 spotifycdn.net
+ap.spotify.com
+dl.google.com
+appspot.com
